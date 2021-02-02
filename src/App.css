@@ -1,0 +1,10 @@
+body {
+  background-image: url('https://nullprogram.com/img/hypernova/starfield.gif');
+  background-repeat: repeat;
+}
+
+.component-box {
+  width: 30%;
+  margin: auto;
+  margin-top: 10%;
+}
